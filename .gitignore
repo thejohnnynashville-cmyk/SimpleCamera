@@ -1,0 +1,16 @@
+# Build outputs
+bin/
+obj/
+
+# Publish outputs (keep only source)
+publish*/
+publish/
+
+# IDE
+.vs/
+*.suo
+*.user
+
+# OS
+Thumbs.db
+Desktop.ini
