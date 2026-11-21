@@ -1,0 +1,2 @@
+C:\CameraApp\publish6\SimpleCamera.pdb
+C:\CameraApp\publish6\SimpleCamera.exe
